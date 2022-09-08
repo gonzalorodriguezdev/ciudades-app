@@ -1,0 +1,68 @@
+[{
+    "name": "Argentina",
+    "dial_code": "+54",
+    "country_code": "AR",
+    "emoji": "🇦🇷",
+    "emoji_unicode": "U+1F1E6 U+1F1F7",
+    "emoji_svg_url": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg",
+    "timezones": [
+      "America/Argentina/Buenos_Aires",
+      "America/Argentina/Cordoba",
+      "America/Argentina/Salta",
+      "America/Argentina/Jujuy",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Catamarca",
+      "America/Argentina/La_Rioja",
+      "America/Argentina/San_Juan",
+      "America/Argentina/Mendoza",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Ushuaia"
+    ],
+    "latlng": [
+      -34,
+      -64
+    ],
+    "capital": "Buenos Aires",
+    "currency_code": "ARS",
+    "continent": "South America"
+  },
+    {
+    "name": "Spain",
+    "dial_code": "+34",
+    "country_code": "ES",
+    "emoji": "🇪🇸",
+    "emoji_unicode": "U+1F1EA U+1F1F8",
+    "emoji_svg_url": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg",
+    "timezones": [
+      "Europe/Madrid",
+      "Africa/Ceuta",
+      "Atlantic/Canary"
+    ],
+    "latlng": [
+      40,
+      -4
+    ],
+    "capital": "Madrid",
+    "currency_code": "EUR",
+    "continent": "Europe"
+  },
+  {
+    "name": "Colombia",
+    "dial_code": "+57",
+    "country_code": "CO",
+    "emoji": "🇨🇴",
+    "emoji_unicode": "U+1F1E8 U+1F1F4",
+    "emoji_svg_url": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CO.svg",
+    "timezones": [
+      "America/Bogota"
+    ],
+    "latlng": [
+      4,
+      -72
+    ],
+    "capital": "Bogotá",
+    "currency_code": "COP",
+    "continent": "South America"
+  }]
+    
